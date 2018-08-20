@@ -11,8 +11,6 @@ from   skimage import data, color
 from   skimage.transform import resize
 import imageio
 import dapy
-import requests
-from   requests.auth import HTTPDigestAuth
 from io  import BytesIO
 from PIL import Image
 import logging
