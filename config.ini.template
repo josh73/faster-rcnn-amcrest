@@ -1,0 +1,11 @@
+[main]
+
+; https://en.wikipedia.org/wiki/List_of_tz_database_time_zoness
+timezone = America/Los_Angeles
+
+; IP address as in 1.2.3.4
+ipAddr = 192.168.1.50
+
+; username and password for the IP camera
+username = cameraUser
+password = *f27rWqz@kR&
