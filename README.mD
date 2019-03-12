@@ -1,8 +1,8 @@
 # faster-rcnn-amcrest
-Retrieve a rtsp stream from an Amcrest IP camera
-Performs people detection on the frames
-Saves frames containing people in image/positive
-Saves the same frames with bounding boxes in images/marked
+* Retrieve rtsp stream from an Amcrest IP camera
+* Performs people detection on the frames
+* Saves frames containing people in image/positive
+* Saves the same frames with bounding boxes in images/marked
 
 ## preparation
 * install tensorflow and cv2
